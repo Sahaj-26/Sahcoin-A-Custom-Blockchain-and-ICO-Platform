@@ -40,7 +40,7 @@ Sahcoin is a decentralized blockchain platform built using Python and Flask, des
 
 ## How to Run
 A) Blockchain Implementation
-1) _python app_name.py_
+1) run _python app_name.py_
 2) Interact with the blockchain using Postman
 
 B) Smart contract for ICO
