@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.6.31",
+    "node-fetch": "^3.3.2",
+    "web3": "^1.10.0"
+  }
+}
