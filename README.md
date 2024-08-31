@@ -34,9 +34,9 @@ Sahcoin is a decentralized blockchain platform built using Python and Flask, des
 * Truffle Suite and Ganache: Ethereum development environment.
 
 ## Prerequisites
-Install nvm
-Install node v16
-Install flask
+* Install nvm
+* Install node v16
+* Install flask
 
 ## How to Run
 A) Blockchain Implementation
