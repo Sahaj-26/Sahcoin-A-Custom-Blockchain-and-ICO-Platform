@@ -27,11 +27,11 @@ Sahcoin is a decentralized blockchain platform built using Python and Flask, des
 3) API Testing: Use Postman to test the endpoints for blockchain operations, including '/mine_block', '/get_chain', '/is_valid', '/add_transaction', '/connect_node', and '/replace_chain'.
 
 ## Technologies Used:
-Python: Blockchain and Flask API.
-Solidity: Smart contract for ICO.
-Flask: Web application framework.
-Postman: API testing and interaction.
-Truffle Suite and Ganache: Ethereum development environment.
+* Python: Blockchain and Flask API.
+* Solidity: Smart contract for ICO.
+* Flask: Web application framework.
+* Postman: API testing and interaction.
+* Truffle Suite and Ganache: Ethereum development environment.
 
 ## Prerequisites
 Install nvm
