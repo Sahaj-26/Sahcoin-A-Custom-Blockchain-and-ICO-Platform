@@ -3,23 +3,23 @@
 Sahcoin is a decentralized blockchain platform built using Python and Flask, designed to allow users to mine blocks, validate the blockchain, and conduct transactions securely. Additionally, Sahcoin includes a smart contract for an Initial Coin Offering (ICO) written in Solidity, enabling investors to buy and sell Sahcoins using Truffle Suite and Ganache.
 
 ## Key Features:
-1) Blockchain Implementation (sahcoin.py)
-  Create and validate a blockchain.
-  Proof-of-Work consensus mechanism.
-  Transaction handling and node communication.
+1) Blockchain Implementation (sahcoin.py):
+  * Create and validate a blockchain.
+  * Proof-of-Work consensus mechanism.
+  * Transaction handling and node communication.
 
-2) Multi-Node Setup (sahcoin_node_5001.py, sahcoin_node_5002.py, sahcoin_node_5003.py)
-  Support for decentralized network setup with multiple nodes.
-  Node interaction and chain synchronization.
+2) Multi-Node Setup (sahcoin_node_5001.py, sahcoin_node_5002.py, sahcoin_node_5003.py):
+  * Support for decentralized network setup with multiple nodes.
+  * Node interaction and chain synchronization.
 
-3) API Testing with Postman
-  Interact with the blockchain implementation using Postman.
-  Test various endpoints for GET and POST requests to mine blocks, add transactions, and check the blockchain state.
+3) API Testing with Postman:
+  * Interact with the blockchain implementation using Postman.
+  * Test various endpoints for GET and POST requests to mine blocks, add transactions, and check the blockchain state.
 
-4) ICO Smart Contract (sahcoins_ico.sol)
-  Smart contract for Sahcoin ICO.
-  Equity management in both Sahcoins and USD.
-  Buy and sell Sahcoins using Ethereum-based tools.
+4) ICO Smart Contract (sahcoins_ico.sol):
+  * Smart contract for Sahcoin ICO.
+  * Equity management in both Sahcoins and USD.
+  * Buy and sell Sahcoins using Ethereum-based tools.
 
 ## Usage:
 1) Blockchain Operations: Use the Flask-based API to mine new blocks, add transactions, and manage nodes.
